@@ -6,3 +6,12 @@
 .title {
     color: green;
 }
+
+.button {
+width: 100px;
+height: 20px;
+margin-left: auto;
+margin-right: auto;
+background-color: blue;
+text-align: center;
+}
